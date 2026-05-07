@@ -11,6 +11,7 @@
 | Problem | Topic | Complexity | Why it's here? |
 | :--- | :--- | :--- | :--- |
 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/solutions/7804197/regular-expression-approach-by-arror404-9m7j/) | Mid Level, String | O(N) | How I use regex |
+| [Count Nice Pairs in an Array](https://github.com/arror403/leetcode_archieve/blob/main/1501-2000/1925-count-nice-pairs-in-an-array/2023-11-21%2015.46.01%20-%20Accepted%20-%20runtime%20541ms%20-%20memory%2026.9MB.py) | Math | O(N) | Interesting one, but got lots of dislike |
 
 ## Repository Structure
 
