@@ -15,7 +15,7 @@
 
 ## Repository Structure
 
-Each solution includes:
+Each folder includes:
 1. Problem description
 2. Solution with Complexity Analysis (Time/Space) in file name
 
