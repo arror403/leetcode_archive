@@ -3,7 +3,6 @@
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/stat.png)
 
 - Rank: 5080
-- [**My profile**](https://leetcode.com/u/arror404/)
 - [**Badges**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
 
 *Last update: 2026/5/7*
