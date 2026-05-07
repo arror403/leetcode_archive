@@ -1,0 +1,3 @@
+class Solution:
+    def divisorGame(self, n: int) -> bool:
+        return False if n%2 else True

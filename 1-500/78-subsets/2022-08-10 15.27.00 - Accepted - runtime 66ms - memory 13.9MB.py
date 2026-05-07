@@ -1,0 +1,5 @@
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        return [j for i in range(len(nums)+1) for j in (itertools.combinations(nums,i))]
+    
+            

@@ -1,0 +1,18 @@
+class Solution:
+    def applyOperations(self, nums: List[int]) -> List[int]:
+        for i in range(len(nums)-1):
+            if nums[i]==nums[i+1]:
+                nums[i]*=2
+                nums[i+1]=0
+
+        res=[]
+        tmp=0
+
+        for i in nums:
+            if i!=0: res.append(i)
+            else: tmp+=1
+
+        res+=[0]*tmp
+
+
+        return res 
