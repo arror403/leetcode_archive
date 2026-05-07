@@ -1,14 +1,12 @@
 ## Summary 
-- **Total Solved:** 1603
-- **Primary Language:** Python / C++
-- **Top 0.1% Rank:** 5080
+- **Rank:** 5080
 
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/stat.png)
 
 *Last update: 2026/5/7*
 
 - [**My profile**](https://leetcode.com/u/arror404/)
-- [**Badges:**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
+- [**Badges**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
 
 ## Featured Solutions
 | Problem | Topic | Complexity | Why it's here? |
@@ -36,6 +34,7 @@ Each solution includes:
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
 ### 2026
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cur.png)
-### Catagory
+### Category
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
-
+### Languages and Skills
+![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/distro.png)
