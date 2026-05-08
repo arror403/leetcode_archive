@@ -1,6 +1,6 @@
 ## Summary 
 
-![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/stat.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/stat-a.png)
 
 - Rank: 5072
 
@@ -28,31 +28,43 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 
 ### 2021
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2021.png)
+
 ### 2022
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2022.png)
+
 ### 2023
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2023.png)
+
 ### 2024
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2024.png)
+
 ### 2025
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
+
 ### Current (2026)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cur.png)
+
 ### Category
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
+
 ### Languages and Skills
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/languages_skills.png)
 
 
 ## Badge
 
-### Submission Days
+#### Submission Days
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Days.png)
-### Study Plan
+
+#### Study Plan
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Study_Plan.png)
-### Annual
+
+#### Annual
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Annual.png)
-### Daily
+
+#### Daily
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Daily.png)
-### Competition
+
+#### Competition
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Competition.png)
+
