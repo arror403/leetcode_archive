@@ -2,7 +2,7 @@
 
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/stat.png)
 
-- Rank: 5080
+- Rank: 5072
 - [**Badges**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
 
 *Last update: 2026/5/8*
@@ -22,7 +22,7 @@ Each folder includes:
 
 Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 
-*The problem number shown here isn't the same as on leetcode, it might had changed to a differfnt format.*
+*The problem number shown here isn't the same as on leetcode, it might changed to a differfnt format.*
 
 
 ## Submissions
@@ -37,9 +37,9 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2024.png)
 ### 2025
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
-### Current(2026)
+### Current (2026)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cur.png)
 ### Category
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
 ### Languages and Skills
-![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/distro.png)
+![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/languages_skills.png)
