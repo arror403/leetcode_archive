@@ -5,7 +5,7 @@
 - Rank: 5080
 - [**Badges**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
 
-*Last update: 2026/5/7*
+*Last update: 2026/5/8*
 
 ## Featured Solutions
 | Problem | Topic | Complexity | Why it's here? |
@@ -16,8 +16,13 @@
 ## Repository Structure
 
 Each folder includes:
-1. Problem description
-2. Solution with Complexity Analysis (Time/Space) in file name
+1. Problem description(.md), problem name as file name
+2. Source code with Runtime and Memory (Time/Space) in file name
+
+
+Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
+
+*The problem number shown here isn't the same as on leetcode, it might had changed to a differfnt format.*
 
 
 ## Submissions
@@ -32,7 +37,7 @@ Each folder includes:
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2024.png)
 ### 2025
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
-### 2026
+### Current(2026)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cur.png)
 ### Category
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
