@@ -3,7 +3,6 @@
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/stat.png)
 
 - Rank: 5072
-- [**Badges**](https://github.com/arror403/leetcode_archieve/tree/main/screenshots)
 
 *Last update: 2026/5/8*
 
@@ -43,3 +42,17 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
 ### Languages and Skills
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/languages_skills.png)
+
+
+## Badge
+
+### Submission Days
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Days.png)
+### Study Plan
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Study_Plan.png)
+### Annual
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Annual.png)
+### Daily
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Daily.png)
+### Competition
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Competition.png)
