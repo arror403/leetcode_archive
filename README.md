@@ -68,7 +68,7 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 #### Competition
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Competition.png)
 
-
+<!--
 ## LeetCoins
 
 ```
@@ -84,3 +84,4 @@ You get LeetCoin(s) by:
 
 #### Cap
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Cap.png)
+-->
