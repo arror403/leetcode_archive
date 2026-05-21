@@ -1,10 +1,10 @@
 ## Summary 
 
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/stat-a.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/2026-05-21Progress.png)
 
-- Rank: 5072
+- Rank: 4904
 
-*Last update: 2026/5/8*
+*Last update: 2026/5/21*
 
 ## Featured Solutions
 | Problem | Topic | Complexity | Why it's here? |
@@ -42,13 +42,13 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
 
 ### Current (2026)
-![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cur.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/cur_2026.png)
 
 ### Category
-![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/cata.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/category.png)
 
 ### Languages and Skills
-![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/languages_skills.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/language_skills.png)
 
 
 ## Badge
@@ -68,3 +68,19 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 #### Competition
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Competition.png)
 
+
+## LeetCoins
+
+```
+You get LeetCoin(s) by:
+30 - 30-day streak check-in
+10 - completed a daily challenge
+ 1 - daily check-in
+... and many other methods
+```
+
+#### T-Shirt
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/T-shirt.png)
+
+#### Cap
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Cap.png)
