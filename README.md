@@ -1,10 +1,12 @@
 ## Summary 
 
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/2026-05-21Progress.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_1.png)
 
-- Rank: 4904
+- Rank: 4720
 
-*Last update: 2026/5/21*
+*Last update: 2026/7/18*
+
+For new submissions, please check [HERE](https://github.com/arror403/leetcode_auto_sync_repo). This repo is used for auto sync my submissions.
 
 ## Featured Solutions
 | Problem | Topic | Complexity | Why it's here? |
@@ -42,13 +44,13 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archieve/blob/main/screenshots/2025.png)
 
 ### Current (2026)
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/cur_2026.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_4.png)
 
 ### Category
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/category.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_5.png)
 
 ### Languages and Skills
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/language_skills.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_3.png)
 
 
 ## Badge
@@ -63,7 +65,7 @@ Export using [LeetCode Export](https://github.com/NeverMendel/leetcode-export)
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Annual.png)
 
 #### Daily
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Daily.png)
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/260718_2.png)
 
 #### Competition
 ![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Competition.png)
